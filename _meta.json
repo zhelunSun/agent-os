@@ -2,7 +2,7 @@
   "name": "agent-os",
   "version": "0.1.1",
   "description": "Lightweight collaboration layer for multi-agent systems — file-based protocols for findings, context, health views, and agent handoffs.",
-  "author": "PandaBro666",
+  "author": "zhelunSun",
   "license": "MIT",
   "homepage": "",
   "keywords": ["multi-agent", "collaboration", "audit", "findings", "context-pack", "mission-control", "flight-recorder", "agent-handoff"],
